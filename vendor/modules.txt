@@ -1,0 +1,41 @@
+# github.com/gonutz/d3d9 v1.2.3
+## explicit; go 1.11
+github.com/gonutz/d3d9
+# github.com/gonutz/d3dmath v1.1.0
+## explicit; go 1.11
+github.com/gonutz/d3dmath/column_major/d3dmath
+# github.com/gonutz/di8 v1.1.0
+## explicit; go 1.23.7
+github.com/gonutz/di8
+# github.com/gonutz/ds v1.1.0
+## explicit; go 1.17
+github.com/gonutz/ds
+# github.com/gonutz/dxc v1.1.0
+## explicit; go 1.11
+github.com/gonutz/dxc
+# github.com/gonutz/ease v1.0.0
+## explicit; go 1.18
+github.com/gonutz/ease
+# github.com/gonutz/obj v1.0.0
+## explicit; go 1.23.7
+github.com/gonutz/obj
+# github.com/gonutz/w32/v2 v2.12.0
+## explicit; go 1.11
+github.com/gonutz/w32/v2
+# github.com/hajimehoshi/go-mp3 v0.3.4
+## explicit; go 1.14
+github.com/hajimehoshi/go-mp3
+github.com/hajimehoshi/go-mp3/internal/bits
+github.com/hajimehoshi/go-mp3/internal/consts
+github.com/hajimehoshi/go-mp3/internal/frame
+github.com/hajimehoshi/go-mp3/internal/frameheader
+github.com/hajimehoshi/go-mp3/internal/huffman
+github.com/hajimehoshi/go-mp3/internal/imdct
+github.com/hajimehoshi/go-mp3/internal/maindata
+github.com/hajimehoshi/go-mp3/internal/sideinfo
+# github.com/jfreymuth/oggvorbis v1.0.1
+## explicit
+github.com/jfreymuth/oggvorbis
+# github.com/jfreymuth/vorbis v1.0.0
+## explicit
+github.com/jfreymuth/vorbis
