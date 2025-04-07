@@ -28,11 +28,11 @@ Credits
 =======
 
 These assets were used in the program:
-	[XBox 360 Controller](https://sketchfab.com/3d-models/xbox-360-controller-08bb78e6d7344a5cbf339123bd138966)
-	[Lego Joker](https://sketchfab.com/3d-models/joker-lego-1a998ccdfe3442ffa327b16637eb8032)
-	[Joystick](https://sketchfab.com/3d-models/joystick-3630d34457bd4de08db183cb4b106be9)
-	[Lego Brick](https://poly.pizza/m/f4-AUM_gO-R)
-	[Background music](https://pixabay.com/music/synthwave-stranger-things-124008/)
-	[Foot step sound](https://pixabay.com/sound-effects/st3-footstep-sfx-323056/)
-	The level texture was taken from Google Images, but I forgot to write down
+-	[XBox 360 Controller](https://sketchfab.com/3d-models/xbox-360-controller-08bb78e6d7344a5cbf339123bd138966)
+-	[Lego Joker](https://sketchfab.com/3d-models/joker-lego-1a998ccdfe3442ffa327b16637eb8032)
+-	[Joystick](https://sketchfab.com/3d-models/joystick-3630d34457bd4de08db183cb4b106be9)
+-	[Lego Brick](https://poly.pizza/m/f4-AUM_gO-R)
+-	[Background music](https://pixabay.com/music/synthwave-stranger-things-124008/)
+-	[Foot step sound](https://pixabay.com/sound-effects/st3-footstep-sfx-323056/)
+-	The level texture was taken from Google Images, but I forgot to write down
 	the actual links when composing the texture. Please don't sue.
